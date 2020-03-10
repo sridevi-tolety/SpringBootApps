@@ -29,7 +29,7 @@ public class InitialController {
 	
 	@RequestMapping("/sayhi")
 	public String sayHi() {
-		return "Say Hiiii!!!";
+		return "Say Hello   ....Hiiii!!!";
 	}
 	
 		//JPA
